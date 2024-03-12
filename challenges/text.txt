@@ -1,0 +1,10 @@
+"""
+To be fair, the app works to an extent. I can register and get my payment code etc, works "well" until the status takes days to update.
+
+You see, problems like this can easily be solved by proper tech. That is NOT the problem.
+
+The problem is everything but tech?.
+
+https://lalalaa.com
+"""
+
